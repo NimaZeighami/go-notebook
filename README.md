@@ -1,5 +1,4 @@
-
-# GO NOTEBOOK
+ GO NOTEBOOK
 
 ## BASICS OF GO
 
