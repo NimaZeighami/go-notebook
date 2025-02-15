@@ -8,9 +8,13 @@ Go is a statically typed, compiled programming language designed for simplicity 
 
 ### 1.1 Go Code (File) Structure 
 (Required) Every Go program starts with a `main` package. (main package is special package that creates executable file but other pakage  names doesn't)
+
 (Optional) After package name  we can have imports (usually we have multiple imports but we can have no imports ! and we have 2 type of import : 1. Single Import  2. Multiple Import) 
+
 (Optional) If we have some other functions or some constant or variables we can write it between imports and main function.
+
 (Required) At the End we should have a main function that is entry point of every go program. 
+
 **Example:**
 
 ```go
