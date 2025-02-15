@@ -15,6 +15,9 @@ Go is a statically typed, compiled programming language designed for simplicity 
 
 (Required) At the End we should have a main function that is entry point of every go program. 
 
+**Key Points:**
+- {} and ;
+
 **Example:**
 
 ```go
@@ -33,6 +36,10 @@ In this example:
 - `import "fmt"`: Imports the `fmt` package, which contains functions for formatted I/O.
 - `func main() { ... }`: The `main` function is the entry point of the program.
 - `fmt.Println("Hello, World!")`: Prints the string to the console.
+
+### 1.2. Keywords in Go
+
+### 1.3. DataTypes in Go
 
 ### Enums in Go
 
