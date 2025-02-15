@@ -40,8 +40,11 @@ Go works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
 
 ### Go Usages
 Web development (server-side) { SoundCloud 🎶}
+
 Developing network-based programs {Docker 🐳}
+
 Developing cross-platform enterprise applications { Uber }
+
 Cloud-native development { Kubernetes }
 
 
