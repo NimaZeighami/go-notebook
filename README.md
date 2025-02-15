@@ -33,9 +33,13 @@ HashiCorp Terraform: Terraform Core – Go provides a reliable and efficient bas
 
 ### Why Use Go?
 Go is fun and easy to learn
+
 Go has fast run time and compilation time
+
 Go supports concurrency
+
 Go has memory management
+
 Go works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
 
 ### Go Usages
