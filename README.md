@@ -4,7 +4,9 @@
 ## BASICS OF GO
 
 ### INTRODUCTION 
-Go is a statically typed, compiled programming language designed for simplicity and efficiency. Its syntax is clean and concise, making it easy to read and write.
+Go is a **statically typed**, **compiled programming language** designed for **simplicity** and **efficiency**. Its syntax is **clean** and **concise**, making it easy to read and write.
+Go is  **cross-platform**, **open source** and **fast** and its syntax is **similar to C++** and it was developed at **Google** by **Robert Griesemer, Rob Pike, and Ken Thompson** in **2007**.
+
 
 ### 1.1 Go Code (File) Structure 
 (Required) Every Go program starts with a `main` package. (main package is special package that creates executable file but other pakage  names doesn't)
