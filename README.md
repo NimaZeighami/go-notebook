@@ -6,7 +6,8 @@
 ### INTRODUCTION 
 Go is a statically typed, compiled programming language designed for simplicity and efficiency. Its syntax is clean and concise, making it easy to read and write.
 
-### 1. Go Code (File) Structure 
+### 1.1 Go Code (File) Structure 
+Every Go program starts with a `main` package.
 
 **Example:**
 
