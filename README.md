@@ -7,6 +7,45 @@ Go is a **statically typed**, **compiled programming language** designed for **s
 Go is  **cross-platform**, **open source** and **fast** and its syntax is **similar to C++** and it was developed at **Google** by **Robert Griesemer, Rob Pike, and Ken Thompson** in **2007**.
 
 
+### Popular Companies are Using Go :
+1. Web Development & Streaming Platforms
+Netflix: DynaStream – Go was used for efficient, real-time data processing to personalize recommendations.
+Twitch: Chat Service – Go handles the high concurrency needed for millions of real-time chat messages.
+SoundCloud: Monolith to Microservices – Migrated backend services to Go for better scalability and maintainability.
+2. Networking & Infrastructure
+Google: Kubernetes – Go was chosen for its simplicity, performance, and built-in concurrency for container orchestration.
+Cloudflare: GoProxy – Go powers various network services due to its efficient memory management and performance.
+Dropbox: Sync Engine Rewrite – Dropbox rewrote its file synchronization engine in Go to improve performance and scalability.
+3. Cloud-Native & Enterprise Applications
+Alibaba Cloud: Cloud Infrastructure – Go was used for scalable and efficient microservices in cloud environments.
+Microsoft Azure: Go SDK for Azure – Go supports infrastructure automation and cloud service management.
+Heroku: Heroku CLI – Go was chosen for its performance and ease of cross-platform development.
+4. FinTech & Payments
+PayPal: Fraud Detection System – Go improved performance in real-time fraud detection pipelines.
+Capital One: Data Processing Services – Go was used to build efficient, scalable services for financial operations.
+5. Ride-Hailing & Logistics
+Uber: Geofence Service – Go powers geospatial indexing and trip matching for real-time logistics.
+Lyft: Dispatch System – Go helps handle large volumes of requests in real-time ride matching.
+6. DevOps & Tools
+Docker: Docker Engine – Go was chosen for its performance, concurrency, and simplicity in container orchestration.
+HashiCorp Terraform: Terraform Core – Go provides a reliable and efficient base for infrastructure automation.
+
+
+### Why Use Go?
+Go is fun and easy to learn
+Go has fast run time and compilation time
+Go supports concurrency
+Go has memory management
+Go works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+
+### Go Usages
+Web development (server-side) { SoundCloud 🎶}
+Developing network-based programs {Docker 🐳}
+Developing cross-platform enterprise applications { Uber }
+Cloud-native development { Kubernetes }
+
+
+
 ## 1.1 Go Code (File) Structure 
 (Required) Every Go program starts with a `main` package. (main package is special package that creates executable file but other pakage  names doesn't)
 
