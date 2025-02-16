@@ -53,7 +53,7 @@ Developing cross-platform enterprise applications { Uber }
 
 Cloud-native development { Kubernetes }
 
-#### 1.1 Go Code (File) Structure
+## 1.1 Go Code (File) Structure
 
 Every Go program follows a specific structure to ensure clarity, simplicity, and consistency. Understanding this structure is crucial for writing clean, maintainable, and executable Go code.
 
@@ -1054,7 +1054,7 @@ func main() {
 
 ---
 
-## Variadic Functions
+### Variadic Functions
 
 **Variadic functions** accept an unlimited number of arguments of the **same type**.
 
@@ -1086,7 +1086,7 @@ func main() {
 
 ---
 
-## **Anonymous Functions**
+### **Anonymous Functions**
 
 Anonymous functions are functions without a name, often used for short-term or one-off tasks.
 
@@ -1133,13 +1133,13 @@ func main() {
 
 ---
 
-## **Built-in Functions**
+### **Built-in Functions**
 
 Go includes several built-in functions like `len()`, `cap()`, `new()`, `make()`, `append()`, `copy()`, and `delete()` for common operations.
 
 ---
 
-## **Closures (Function Closure)**
+### **Closures (Function Closure)**
 
 **Closures** are anonymous functions that capture and use variables from an enclosing scope.
 
@@ -1211,7 +1211,7 @@ Now, the goroutines print `0` to `9` correctly.
 
 ## 1.7. Arrays and Slices in Go
 
-## Array
+### Array
 
 **Definition:** An **array** stores multiple values of the **Same Type**. The size is **fixed** at declaration.
 
